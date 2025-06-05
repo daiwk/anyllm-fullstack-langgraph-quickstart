@@ -21,9 +21,13 @@
 6. 安装node.js，去frontend目录，执行```npm install```
 7. 回到主目录，执行```make dev```，打开```http://localhost:5173/app/```就能用了
 
-示例：
+demo1
 
 ![](./demo.jpeg)
+
+demo2
+
+![](./demo2.jpeg)
 
 
 ## Star History
