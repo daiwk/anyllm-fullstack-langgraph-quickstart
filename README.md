@@ -1,4 +1,7 @@
 # anyllm-fullstack-langgraph-quickstart
+
+## 简介
+
 基于[google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart)
 
 主要做了如下几个改动:
@@ -6,7 +9,7 @@
 2. 工具调用改成google search api进行搜索(比较慢，duckduckgo也可以，代码里DDGS相关的代码，只是会经常超限…)
 3. 为了方便完全的本地调试，删掉了一些docker相关的东西
 
-使用方式：
+## 使用方式
 
 1. python版本需要是3.11以上
 2. 获取google search api的两个参数
@@ -21,3 +24,15 @@
 示例：
 
 ![](./demo.jpeg)
+
+
+## Star History
+
+<a href="https://star-history.com/#daiwk/anyllm-fullstack-langgraph-quickstart&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=daiwk/anyllm-fullstack-langgraph-quickstart&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=daiwk/anyllm-fullstack-langgraph-quickstart&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=daiwk/anyllm-fullstack-langgraph-quickstart&type=Date" />
+ </picture>
+</a>
+
